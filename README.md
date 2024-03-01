@@ -28,6 +28,5 @@
         <input type="number" id="oz" />
       </div>
     </div>
-    <script src="script.js"></script>
-  </body>
+   </body>
 </html>
