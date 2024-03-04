@@ -1,6 +1,6 @@
 Hello fellows😎,
 How's it going? here back with a havascript project: Weight-Converter{pretty simple one}.
-🔴 GitHub link:https://github.com/Pratyushsahoo2002/Weight-converter/new/main
+🔴 GitHub link:https://github.com/Pratyushsahoo2002/Weight-converter
 
 
 🟢FEATURES🟢
